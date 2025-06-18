@@ -1,0 +1,1 @@
+# Smart-Object-detection-and-Text-recognition-TTS-module-for-Jetson-nano-Raspberry-Pi
